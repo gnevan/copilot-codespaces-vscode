@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // Path: server.js
 var http = require('http');
 var server = http.createServer(function (request, response) {
